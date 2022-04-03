@@ -9,7 +9,9 @@
         - Dowload openssl at https://code.google.com/archive/p/openssl-for-windows/downloads
         - Unzip
         - Copy path openssl.../bin to environment
-        - restart computer
+        - Set config in CMD (Run as administrator)
+            SET OPENSSL_CONF=C:\OpenSSL-Win32\bin\openssl.cfg
+        - restart computer 
   
 ## Config SSL - HTTPS
     mkdir ssl
