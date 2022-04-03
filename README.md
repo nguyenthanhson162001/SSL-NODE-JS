@@ -10,7 +10,7 @@
         - Unzip
         - Copy path ${path un zip }\openssl...\bin to environment
         - Set config in CMD (Run as administrator)
-            SET OPENSSL_CONF=  set OPENSSL_CONF=  ${path un zip }\openssl...\openssl.cnf
+           $ set OPENSSL_CONF=  ${path un zip }\openssl...\openssl.cnf
         - restart computer 
   
 ## Config SSL - HTTPS
