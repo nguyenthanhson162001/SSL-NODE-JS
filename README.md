@@ -9,6 +9,7 @@
         - Dowload openssl at https://code.google.com/archive/p/openssl-for-windows/downloads
         - Unzip
         - Copy path openssl.../bin to environment
+        - restart computer
   
 ## Config SSL - HTTPS
     mkdir ssl
