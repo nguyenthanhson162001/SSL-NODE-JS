@@ -10,7 +10,7 @@
         - Unzip
         - Copy path openssl.../bin to environment
         - Set config in CMD (Run as administrator)
-            SET OPENSSL_CONF=C:\OpenSSL-Win32\bin\openssl.cfg
+            SET OPENSSL_CONF=  path...\OpenSSL...\bin\openssl.cfg
         - restart computer 
   
 ## Config SSL - HTTPS
